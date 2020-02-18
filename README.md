@@ -8,4 +8,6 @@ to load a map you have to write a file formatted like this:
 
 There are some file examples in the game directory.
 
+To compile it you must link against the curses library.
+
 Enjoy!
